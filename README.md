@@ -130,21 +130,6 @@ DesktopApp/
 - SQL Server Express or LocalDB (optional for storing results)
 
 
-
-## 📸 Screenshots (Optional)
-
-### OCR from Scanned PDF
-
-![OCR Screenshot](./images/ocr_example.png)  
-*Extracted text from a scanned exam paper using Tesseract OCR.*
-
-### Student Report with RDLC
-
-![Report Screenshot](./images/report_viewer_output.png)  
-*RDLC-based detailed performance report ready to print.*
-
----
-
 ## 📄 License
 
 This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).  
