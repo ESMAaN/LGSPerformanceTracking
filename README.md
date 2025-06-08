@@ -94,34 +94,6 @@ using (var engine = new TesseractEngine("./tessdata", "tur", EngineMode.Default)
 }
 ```
 
----
-
-## 📁 Project Structure
-
-```text
-DesktopApp/
-├── App.config
-├── Program.cs
-├── Forms/
-│   ├── Form1.cs / .Designer.cs / .resx
-├── Dashboards/
-│   ├── StudentDashboard.cs / .Designer.cs / .resx
-├── Reports/
-│   ├── StudentExamReportDataSet.cs / .xsd / .xsc / .xss
-├── SplashScreen/
-│   ├── SplashScreen.cs / .Designer.cs / .resx
-├── OCR/
-│   ├── Tesseract.dll
-│   └── tessdata/
-│       └── tur.traineddata
-├── ReportTemplates/
-│   └── StudentReport.rdlc
-├── LICENSE
-└── README.md
-```
-
----
-
 ## ▶️ Getting Started
 
 ### Prerequisites
